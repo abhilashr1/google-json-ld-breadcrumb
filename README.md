@@ -8,9 +8,9 @@ This makes it easier to implement a hierarchy using breadcrumbs without taking t
 
 Just add the code anywhere in the body in a script tag or copy paste the code to anywhere in your js file. 
 
-'''     
+```     
 <script src="json-ld-breadcrumb.js"></script>
-'''
+```
 
 ## License
 
